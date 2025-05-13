@@ -21,7 +21,7 @@ class Program
         {
             try
             {
-                Console.WriteLine("------------------------------\n     Student Management Menu");
+                Console.WriteLine("\n Student Management Menu");
                 Console.WriteLine("1. Add Student");
                 Console.WriteLine("2. Display All Students");
                 Console.WriteLine("3. Delete Student by ID");
