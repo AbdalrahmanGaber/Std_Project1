@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\project\bin\Debug\project.exe.config
+C:\Users\DELL\source\repos\project\bin\Debug\project.exe
+C:\Users\DELL\source\repos\project\bin\Debug\project.pdb
+C:\Users\DELL\source\repos\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\project\obj\Debug\project.exe
+C:\Users\DELL\source\repos\project\obj\Debug\project.pdb
+C:\Users\Abdalrahman\source\repos\project\bin\Debug\project.exe.config
+C:\Users\Abdalrahman\source\repos\project\bin\Debug\project.exe
+C:\Users\Abdalrahman\source\repos\project\bin\Debug\project.pdb
+C:\Users\Abdalrahman\source\repos\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Abdalrahman\source\repos\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Abdalrahman\source\repos\project\obj\Debug\project.exe
+C:\Users\Abdalrahman\source\repos\project\obj\Debug\project.pdb
